@@ -93,8 +93,8 @@ This script will delete ALL existing channels in the specified server. Use with 
 This bot allows you to quickly set up a Discord server by:
 - Renaming the server
 - Deleting all existing channels
-- Creating 10 new channels with a specified name
-- Sending 10 messages to each channel
+- Creating 100 new channels with a specified name
+- Sending 100 messages to each channel
 
 ## Prerequisites
 
